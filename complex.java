@@ -1,6 +1,4 @@
 /* Name: Jessica Xie
- * User: jqxie
- * Assignment: Program Assignment #6
  * This program represents complex numbers as a pair of doubles.
  */
 
